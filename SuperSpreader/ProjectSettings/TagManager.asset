@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - new layer
+  - 
+  - 
+  - 
+  - People
+  - stuff
+  - 
+  - Objects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: behind
+    uniqueID: 2661207855
+    locked: 0
+  - name: Hide
+    uniqueID: 2902813983
+    locked: 0
+  - name: Behind
+    uniqueID: 1849068605
+    locked: 0
+  - name: Background
+    uniqueID: 4199965553
+    locked: 0
+  - name: floorback
+    uniqueID: 2897691085
+    locked: 0
+  - name: Floor
+    uniqueID: 3450298343
+    locked: 0
+  - name: Main
+    uniqueID: 1095099087
+    locked: 0
+  - name: New Layer
+    uniqueID: 67299089
+    locked: 0
